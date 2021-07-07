@@ -3,6 +3,7 @@
     padding: 20px;
     background-color: darkgrey;
     border-radius: 12px;
+    margin: auto;
 }
 #buttons{
     width: 400px;
